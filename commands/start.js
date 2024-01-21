@@ -8,7 +8,6 @@ module.exports = {
                 server();
                 channels();
                 roles();
-                messages();
                 dm();
             break;
             case 'server':
