@@ -1,11 +1,11 @@
 {
-    "token": "MTE5ODY3OTkwMjEyNDI2NTY1NA.G3p1Y2.bibeM2QIdfrqSqEgzcVlUihxL4rSsOm8WV0tEA",
-    "prefix": "raid.",
-    "whitelist": ["323396891196784644"],
+    "token": "BOT_TOKEN",
+    "prefix": "PREFIX_WITHOUT_SPACES",
+    "whitelist": ["USER_ID (you can add more id's)"],
 
-    "guild_name": "RAIDED BY SEYIOO",
-    "guild_icon": "https://cdn.discordapp.com/icons/1074684079376707604/a_4dbdccda4271938bd0ea90ad8c570bdc.gif",
-    "channels_name": "raided-by-seyioo",
-    "roles_name": "RAIDED BY SEYIOO",
-    "messages_content": "@everyone discord.gg/aube"
+    "guild_name": "SERVER NAME",
+    "guild_icon": "SERVER_ICON_URL",
+    "channels_name": "text-channel-name",
+    "roles_name": "ROLES_NAME",
+    "messages_content": "The message you want to spam"
 }
