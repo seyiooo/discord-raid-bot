@@ -72,7 +72,7 @@ module.exports = {
                 message.guild.roles.create({
                     name: client.config.roles_name
                 })
-                .cathc(() => 0);
+                .catch(() => 0);
             }, 0);
         };
 
