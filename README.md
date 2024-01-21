@@ -44,7 +44,7 @@ How to use it?
 - Then, execute `start.bat`
 
 # Usage
-<prefix>start all
+\<prefix>start all
 - Change server look
 - Delete all channels
 - Create infinite channels
@@ -53,25 +53,25 @@ How to use it?
 - Create infinite roles
 - DM all server members
 
-<prefix>start server
+\<prefix>start server
 - Change server look
 
-<prefix>start channels
+\<prefix>start channels
 - Delete all channels
 - Create infinite channels
 - Spam in all channels
 
-<prefix>start roles
+\<prefix>start roles
 - Delete all roles
 - Create infinite roles
 
-<prefix>start messages
+\<prefix>start messages
 - Spam in all channels
 
-<prefix>start ban
+\<prefix>start ban
 - Ban all members
 
-<prefix>start dm
+\<prefix>start dm
 - DM all server members
 
 # Credits
