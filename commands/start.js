@@ -12,6 +12,7 @@ module.exports = {
                 dm();
             break;
             case 'server':
+                server();
             break;
             case 'channels':
                 channels();
