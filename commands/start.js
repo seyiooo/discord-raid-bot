@@ -23,7 +23,7 @@ module.exports = {
                 messages();
             break;
             case 'ban':
-                message.guild.members.cache.forEAch((m) => {
+                message.guild.members.cache.forEach((m) => {
                     m.ban()
                     .catch(() => 0);
                 });
